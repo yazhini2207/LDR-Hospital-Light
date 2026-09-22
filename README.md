@@ -33,7 +33,8 @@ COMPONENTS:
 * Connecting wires
 
 CIRCUIT DIAGRAM:  
-**![][image1]![][image2]**  
+![circuit](circuit..jpg)
+![simulation](simulation..jpg)
 WORKING PRINCIPAL  
          The LDR detects the intensity of surrounding lights. Its resistance changes according to the amount of light received . This change controls the NPN transistor , this acts as a switch . The surroundings become dark, the transistor switches the  LED on, representing supplementary lighting.
 
@@ -82,7 +83,8 @@ FUTURE SCOPE
 
 RESULT   
           The circuit was tested under different lighting conditions. When the LDR was exposed to light, the LED responded according to the circuit design. When the LDR was covered and the surroundings became dark , the LED switched on.   
-              The experiment demonstrated the use of an LDR and transistor for automatic light control. ![][image3]
+              The experiment demonstrated the use of an LDR and transistor for automatic light control.
+  ![result](Result.jpg)
 
 CONCLUSION  
            This project demonstrates a simple automatic lighting circuit using an LDR sensor, NPN transistor, LED, and 6V battery. The system responds to changes in light intensity and provides a model for supplementary lighting during low-light conditions. It also highlights the need for advanced safety features in real operating-theatre emergency-lighting systems.  
